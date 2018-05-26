@@ -1,11 +1,13 @@
 # clojurebeer
 
-Source-Code aus der Coding Session "Clojure & Beer" von
-[bendisposto](https://github.com/bendisposto) und [n2o](https://github.com/n2o)
-auf der [EntwickelBar 2.0](https://entwickelbar.github.io). Erste Schritte mit
-ClojureScript und einer Textsubstitution abhängig von einem Regler.
+Source-Code from Coding Session "Clojure & Beer" held by
+[bendisposto](https://github.com/bendisposto) and [n2o](https://github.com/n2o)
+at [EntwickelBar 2.0](https://entwickelbar.github.io). First steps with
+ClojureScript substituting text into beer emojis depending on the value of a
+slider.
 
-Der relevante Code befindet sich in `src/cljs/clojurebeer/core.cljs` und kann
-mit `lein figwheel` gestartet werden.
+Relevant Code located in `src/cljs/clojurebeer/core.cljs`.
+
+Start figwheel with `lein figwheel`.
 
 ![clojurebeer](resources/public/img/screenshot.png)
