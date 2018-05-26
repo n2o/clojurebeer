@@ -7,3 +7,5 @@ ClojureScript und einer Textsubstitution abhängig von einem Regler.
 
 Der relevante Code befindet sich in `src/cljs/clojurebeer/core.cljs` und kann
 mit `lein figwheel` gestartet werden.
+
+![clojurebeer](resources/public/img/screenshot.png)
